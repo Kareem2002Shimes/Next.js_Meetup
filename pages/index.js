@@ -13,7 +13,7 @@ function HomePage(props) {
         />
         <link rel="shortcut icon" href="/logo.png" />
       </Head>
-      <MeetupList meetups={props.meetups} />;
+      <MeetupList meetups={props.meetups} />
     </Fragment>
   );
 }
