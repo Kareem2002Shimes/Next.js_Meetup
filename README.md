@@ -1,4 +1,4 @@
-# Deployment on vercel : https://my-portfolio-livid-kappa.vercel.app/
+# Deployment on vercel : https://next-js-meetup-two.vercel.app/
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
